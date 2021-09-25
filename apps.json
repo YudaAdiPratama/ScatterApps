@@ -1,11 +1,11 @@
 {
   "EOSIO": [
     {
-      "applink":"evodex.io",
-      "name":"evodex",
-      "type":"Exchange",
-      "description":"Evodex is the next generation Automated Market-Maker on EOS.",
-      "url":"https://evodex.io",
+      "applink":"rendangfarm.com",
+      "name":"rendang finances",
+      "type":"DeFi",
+      "description":"Rendang (Rendang.finance) is the first yield farming ( yield optimizer defi ecosystem ) on Vexanium blockchain.",
+      "url":"https://rendangfarm.com",
       "hasimage":"1"
     },
     {
