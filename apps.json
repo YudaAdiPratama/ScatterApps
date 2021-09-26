@@ -15,6 +15,14 @@
       "description":"VexSwap is a Decentralized AMM DEX protocol that allows anyone to swap token on vexanium blockchain As an AMM DEX on the Vexanium blockchain, VexSwap exclusively focuses on the VEX and other Vexanium based tokens. With this platform, users can exchange Vexanium blockchain-based tokens, such as VYN, USDV and many tokens . Users of the VexSwap ecosystem are able to exchange tokens for a low fee (only 0.3%) instant confirmation , zero Gas Fee on the Vexanium blockchain with no intermediaries.",
       "url":"https://vexswap.org",
       "hasimage":"1"
+    },
+    {
+      "applink":"saladswap.org",
+      "name":"rendang finances",
+      "type":"DEX",
+      "description":"VexSwap is a Decentralized AMM DEX protocol that allows anyone to swap token on vexanium blockchain As an AMM DEX on the Vexanium blockchain, VexSwap exclusively focuses on the VEX and other Vexanium based tokens. With this platform, users can exchange Vexanium blockchain-based tokens, such as VYN, USDV and many tokens . Users of the VexSwap ecosystem are able to exchange tokens for a low fee (only 0.3%) instant confirmation , zero Gas Fee on the Vexanium blockchain with no intermediaries.",
+      "url":"https://saladswap.org",
+      "hasimage":"1"
     }
   ]
 }
